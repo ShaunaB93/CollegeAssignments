@@ -1,4 +1,6 @@
-#Programming & Scripting Problems 
+Alt-H1 Programming & Scripting Problems 
+
+======
 
 1.**fib.py file**
 ⋅⋅1. *Problem Description* - 1)Please complete the following exercise this week. In the video lectures this week we ran an example program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. 2)Above is a link to a program I wrote that works similarly to last week's exercise. Copy and run the program yourself. Change the string variable to contain your own surname, and rerun it. Can you figure out what ord() does?
