@@ -1,6 +1,5 @@
 # Programming & Scripting Problems 
-
-==================================
+======
 
 **1.fib.py file**
 
