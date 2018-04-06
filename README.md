@@ -12,7 +12,7 @@
 ⋅⋅2. *Problem Description* Please complete the following exercise this week. In the video lectures we discussed the Collatz conjecture. Complete the exercise discussed in the Collatz conjecture video by writing a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. You can specify in your code the starting value of 17. If you wish to enhance your program, have the program ask the user for the integer instead of specifying a value at the start of your code.
 
 ⋅⋅2. This file contains the code solution to the problem outlined in the decription for Week 3. 
-[Please see here}(https://github.com/ShaunaB93/CollegeAssignments/blob/master/collatz.py)
+[Please see here](https://github.com/ShaunaB93/CollegeAssignments/blob/master/collatz.py)
 
 **3.problem5.py file**
 
